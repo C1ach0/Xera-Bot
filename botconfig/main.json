@@ -1,0 +1,26 @@
+{
+  "clienttoken": "",
+
+  "Note_Token:":"Put Your Bot Token Above (If your using replit then make a new secret 'clienttoken' and put ur bot token there... and then keep this string empty)",
+
+  "clientname": "Xera",
+
+  "clientid": "1049647831708868618",
+
+  "TestingServerID": "1050099829352710254",
+
+  "prefix": "°",
+
+  "developerID": ["358629612584173568"],
+
+  "Note_DevId": "It's possible to add others people in developerID",
+
+  "colorthemecode":"#124071",
+  
+  "randomMessages_Cooldown": ["Slow It Down Fam...", "Spam Isn't Cool Fam....", "Never Gonna Let You Down"],
+
+
+  "NOTE:" : "IF YOU DONT PUT STUFF HERE IT WILL THROW ERRS"
+}
+
+
